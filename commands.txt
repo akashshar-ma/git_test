@@ -1,0 +1,6 @@
+git init   to initialize
+git status  to get status of file untracked file
+git add {name of file}      to get them add in git
+git rm --cached<file>        to remove
+
+28:30
